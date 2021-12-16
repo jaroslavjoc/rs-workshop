@@ -1,3 +1,5 @@
 some text for header
-Chenges from <main> - new changes!!! 
-
+Changes from <footer>
+Chenges from <main>
+ 
+Text from master: new changes!!! 
